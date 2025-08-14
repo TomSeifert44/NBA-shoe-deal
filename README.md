@@ -2,7 +2,7 @@
 
 Investigating the criteria to obtain a signature shoe deal in the NBA
 
-[Article PDF] ()
+[Article PDF] (https://github.com/TomSeifert44/NBA-shoe-deal/blob/main/NBAShoeDeal.pdf)
 
 [Article link](https://www.bruinsportsanalytics.com/post/nba-shoe-deals) (BSA Club website currently down, see PDF)
 
