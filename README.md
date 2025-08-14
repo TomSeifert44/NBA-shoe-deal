@@ -1,6 +1,10 @@
 # What Gets You a Shoe Deal in the NBA?
 
-Investigating the criteria to obtain a signature shoe deal in the NBA ([Article link](https://www.bruinsportsanalytics.com/post/nba-shoe-deals))
+Investigating the criteria to obtain a signature shoe deal in the NBA
+
+[Article PDF] ()
+
+[Article link](https://www.bruinsportsanalytics.com/post/nba-shoe-deals) (BSA Club website currently down, see PDF)
 
 Data sources:
 
